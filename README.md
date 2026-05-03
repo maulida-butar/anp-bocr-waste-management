@@ -21,5 +21,5 @@ The framework integrates Life Cycle Assessment (LCA) environmental hotspot diagn
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/anp-bocr-waste-management.git](https://github.com/YOUR-USERNAME/anp-bocr-waste-management.git)
+   git clone [https://github.com/maulida-butar/anp-bocr-waste-management.git](https://github.com/maulida-butar/anp-bocr-waste-management.git)
    cd anp-bocr-waste-management
